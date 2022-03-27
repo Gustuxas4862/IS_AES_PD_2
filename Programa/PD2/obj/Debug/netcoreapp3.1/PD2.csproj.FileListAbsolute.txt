@@ -1,0 +1,16 @@
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\bin\Debug\netcoreapp3.1\PD2.exe
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\bin\Debug\netcoreapp3.1\PD2.deps.json
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\bin\Debug\netcoreapp3.1\PD2.runtimeconfig.json
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\bin\Debug\netcoreapp3.1\PD2.runtimeconfig.dev.json
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\bin\Debug\netcoreapp3.1\PD2.dll
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\bin\Debug\netcoreapp3.1\PD2.pdb
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.csproj.AssemblyReference.cache
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.MainPanel.resources
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.csproj.GenerateResource.cache
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.AssemblyInfoInputs.cache
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.AssemblyInfo.cs
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.csproj.CoreCompileInputs.cache
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.dll
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.pdb
+C:\Users\gustu\Desktop\Cryptography\2 Praktinis darbas\PD2\obj\Debug\netcoreapp3.1\PD2.genruntimeconfig.cache
